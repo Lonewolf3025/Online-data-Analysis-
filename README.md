@@ -1,6 +1,6 @@
 # 🛒 Online Shopping Data - Exploratory Data Analysis (EDA)
 
-![Shopping Analysis](https://media.tenor.com/hWez-7rGqQMAAAAC/shopping.gif)
+![Shopping Analysis](https://media.tenor.com/1E3scmB7w1YAAAAC/shopping.gif)
 
 ## 📌 Overview  
 Welcome to the **Online Shopping Data EDA** project! This repository provides an in-depth analysis of online shopping trends, customer behavior, and spending patterns. The project leverages **Python, Pandas, Matplotlib, and Seaborn** to generate insightful visualizations and uncover key business insights.
@@ -35,49 +35,49 @@ The dataset contains **online shopping transaction data**, including:
 
 ### 1️⃣ Gender Distribution of Customers  
 📊 **Understanding customer demographics** to target the right audience.  
-![Gender Distribution](https://media.tenor.com/Wn3J90PxiKIAAAAd/gender-binary.gif)  
+![Gender Distribution](https://media.tenor.com/tyU3u8KzvR4AAAAC/gender-male.gif)  
 
 ---
 
 ### 2️⃣ Age Distribution of Customers  
 📈 **Analyzing customer age groups** to optimize marketing strategies.  
-![Age Distribution](https://media.tenor.com/U4U4wyC6hJIAAAAC/graph-up.gif)  
+![Age Distribution](https://media.tenor.com/KI8c-vZ9qV8AAAAC/age-graph.gif)  
 
 ---
 
 ### 3️⃣ Top Purchased Categories  
 🛍 **What products do customers love the most?**  
-![Category Chart](https://media.tenor.com/lMpPUq6mVsEAAAAC/shopping-mall.gif)  
+![Category Chart](https://media.tenor.com/x5uTAqQhRAwAAAAC/shopping-bags-shopping.gif)  
 
 ---
 
 ### 4️⃣ Average Purchase Amount by Category  
 💰 **Which categories drive higher spending?**  
-![Spending Behavior](https://media.tenor.com/1iyAFyQViMEAAAAC/money-cash.gif)  
+![Spending Behavior](https://media.tenor.com/jxjMR74ACdkAAAAC/money-cash.gif)  
 
 ---
 
 ### 5️⃣ Seasonal Spending Trends  
 📆 **How do sales fluctuate across seasons?**  
-![Seasonal Trends](https://media.tenor.com/5jZrJkYmE-QAAAAC/seasonal-shopping.gif)  
+![Seasonal Trends](https://media.tenor.com/ahBoJ58weOoAAAAC/spring-summer.gif)  
 
 ---
 
 ### 6️⃣ Preferred Payment Methods  
 💳 **Which payment method is most popular among customers?**  
-![Payment Trends](https://media.tenor.com/q8XEx4zS2YIAAAAd/payment-money.gif)  
+![Payment Trends](https://media.tenor.com/W9ABAljTLyIAAAAC/credit-card.gif)  
 
 ---
 
 ### 7️⃣ Impact of Discounts on Purchase Amount  
 🎯 **Do discounts really drive higher sales?**  
-![Discount Impact](https://media.tenor.com/RxHT1tsz1A4AAAAC/sale-shopping.gif)  
+![Discount Impact](https://media.tenor.com/Tz6YV2rhvjwAAAAC/discount.gif)  
 
 ---
 
 ### 8️⃣ Promo Code Usage Trends  
 🎟 **Are customers using promo codes effectively?**  
-![Promo Code Usage](https://media.tenor.com/WqOXV-Qul2sAAAAd/coupon-code.gif)  
+![Promo Code Usage](https://media.tenor.com/MpNpjfXjJMEAAAAC/coupon-coupons.gif)  
 
 ---
 
