@@ -1,6 +1,6 @@
 # 🛒 Online Shopping Data - Exploratory Data Analysis (EDA)
 
-![Shopping Analysis](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+![Shopping Analysis](https://media.tenor.com/hWez-7rGqQMAAAAC/shopping.gif)
 
 ## 📌 Overview  
 Welcome to the **Online Shopping Data EDA** project! This repository provides an in-depth analysis of online shopping trends, customer behavior, and spending patterns. The project leverages **Python, Pandas, Matplotlib, and Seaborn** to generate insightful visualizations and uncover key business insights.
@@ -35,49 +35,49 @@ The dataset contains **online shopping transaction data**, including:
 
 ### 1️⃣ Gender Distribution of Customers  
 📊 **Understanding customer demographics** to target the right audience.  
-![Gender Distribution](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
+![Gender Distribution](https://media.tenor.com/Wn3J90PxiKIAAAAd/gender-binary.gif)  
 
 ---
 
 ### 2️⃣ Age Distribution of Customers  
 📈 **Analyzing customer age groups** to optimize marketing strategies.  
-![Age Distribution](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)  
+![Age Distribution](https://media.tenor.com/U4U4wyC6hJIAAAAC/graph-up.gif)  
 
 ---
 
 ### 3️⃣ Top Purchased Categories  
 🛍 **What products do customers love the most?**  
-![Category Chart](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)  
+![Category Chart](https://media.tenor.com/lMpPUq6mVsEAAAAC/shopping-mall.gif)  
 
 ---
 
 ### 4️⃣ Average Purchase Amount by Category  
 💰 **Which categories drive higher spending?**  
-![Spending Behavior](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)  
+![Spending Behavior](https://media.tenor.com/1iyAFyQViMEAAAAC/money-cash.gif)  
 
 ---
 
 ### 5️⃣ Seasonal Spending Trends  
 📆 **How do sales fluctuate across seasons?**  
-![Seasonal Trends](https://media.giphy.com/media/l3vR3bh2CqgRPrTqM/giphy.gif)  
+![Seasonal Trends](https://media.tenor.com/5jZrJkYmE-QAAAAC/seasonal-shopping.gif)  
 
 ---
 
 ### 6️⃣ Preferred Payment Methods  
 💳 **Which payment method is most popular among customers?**  
-![Payment Trends](https://media.giphy.com/media/l0HlK67TyrXWtOxaU/giphy.gif)  
+![Payment Trends](https://media.tenor.com/q8XEx4zS2YIAAAAd/payment-money.gif)  
 
 ---
 
 ### 7️⃣ Impact of Discounts on Purchase Amount  
 🎯 **Do discounts really drive higher sales?**  
-![Discount Impact](https://media.giphy.com/media/xT9DPIlGQw3nQPaRlO/giphy.gif)  
+![Discount Impact](https://media.tenor.com/RxHT1tsz1A4AAAAC/sale-shopping.gif)  
 
 ---
 
 ### 8️⃣ Promo Code Usage Trends  
 🎟 **Are customers using promo codes effectively?**  
-![Promo Code Usage](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)  
+![Promo Code Usage](https://media.tenor.com/WqOXV-Qul2sAAAAd/coupon-code.gif)  
 
 ---
 
@@ -97,6 +97,13 @@ The dataset contains **online shopping transaction data**, including:
 git clone https://github.com/yourusername/Online-Shopping-EDA.git
 cd Online-Shopping-EDA
 
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repository  
+git clone https://github.com/yourusername/Online-Shopping-EDA.git
+cd Online-Shopping-EDA
+
 2️⃣ Install Dependencies
 pip install pandas matplotlib seaborn jupyter
 
@@ -111,13 +118,6 @@ Made with ❤️ by Bharath 🚀
 💬 Feel free to contribute or reach out with any questions. 🚀
 
 
----
 
-### **🚀 Next Steps:**  
-1️⃣ **Replace** `"yourusername"` with your **GitHub username** in the links.  
-2️⃣ **Replace** `"your-email@gmail.com"` with your **actual email**.  
-3️⃣ **Upload it as `README.md`** in your GitHub repository.  
-
-This `README.md` will make your project **stand out with a professional look**! 🚀🔥 Let me know if you need any modifications! 😊
 
 
